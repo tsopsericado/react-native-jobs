@@ -45,7 +45,7 @@ const useFetch = () => {
     fetchdata();
   };
 
-  return "data", "isLoading", "error", refetch;
+  return ("data", "isLoading", "error", refetch);
 };
 
 export default useFetch;
